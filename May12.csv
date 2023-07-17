@@ -1,0 +1,379 @@
+,Date,Name,Points,Prop
+0,"Sun, May 14 7:00 PM",Joel Embiid,30.5,Points
+1,"Fri, May 12 6:40 PM",Jalen Brunson,27.5,Points
+2,"Fri, May 12 6:40 PM",Jimmy Butler,28.5,Points
+3,"Fri, May 12 6:40 PM",Julius Randle,22.5,Points
+4,"Fri, May 12 6:40 PM",Bam Adebayo,18.0,Points
+5,"Fri, May 12 6:40 PM",RJ Barrett,20.5,Points
+6,"Fri, May 12 6:40 PM",Gabe Vincent,9.5,Points
+7,"Fri, May 12 6:40 PM",Mitchell Robinson,6.0,Points
+8,"Fri, May 12 6:40 PM",Kevin Love,8.0,Points
+9,"Fri, May 12 6:40 PM",Quentin Grimes,10.0,Points
+10,"Fri, May 12 6:40 PM",Max Strus,12.5,Points
+11,"Fri, May 12 6:40 PM",Kyle Lowry,11.0,Points
+12,"Fri, May 12 6:40 PM",Caleb Martin,8.5,Points
+13,"Fri, May 12 6:40 PM",Duncan Robinson,5.5,Points
+14,"Fri, May 12 6:30 PM",Jimmy Butler + Bam Adebayo,46.5,Points
+15,"Fri, May 12 6:30 PM",Julius Randle + Jalen Brunson,50.5,Points
+16,"Fri, May 12 6:30 PM",Jimmy Butler + Gabe Vincent,38.5,Points
+17,"Fri, May 12 6:30 PM",Jalen Brunson + RJ Barrett,48.5,Points
+18,"Fri, May 12 6:30 PM",Bam Adebayo + Kevin Love,25.5,Points
+19,"Fri, May 12 6:30 PM",Julius Randle + Mitchell Robinson,29.0,Points
+20,"Fri, May 12 6:30 PM",Jimmy Butler + Jalen Brunson,56.5,Points
+21,"Fri, May 12 6:30 PM",Jimmy Butler + Julius Randle,51.5,Points
+22,"Fri, May 12 6:30 PM",Bam Adebayo + RJ Barrett,39.5,Points
+23,"Fri, May 12 6:30 PM",Gabe Vincent + Jalen Brunson,37.5,Points
+24,"Fri, May 12 9:10 PM",Stephen Curry,31.5,Points
+25,"Fri, May 12 9:10 PM",LeBron James,26.5,Points
+26,"Fri, May 12 9:10 PM",Klay Thompson,22.0,Points
+27,"Fri, May 12 9:10 PM",Anthony Davis,24.5,Points
+28,"Fri, May 12 9:10 PM",Andrew Wiggins,16.5,Points
+29,"Fri, May 12 9:10 PM",D'Angelo Russell,15.5,Points
+30,"Fri, May 12 9:10 PM",Draymond Green,9.5,Points
+31,"Fri, May 12 9:10 PM",Austin Reaves,14.5,Points
+32,"Fri, May 12 9:10 PM",Dennis Schroder,10.5,Points
+33,"Fri, May 12 9:10 PM",Gary Payton II,9.5,Points
+34,"Fri, May 12 9:00 PM",LeBron James + Anthony Davis,51.5,Points
+35,"Fri, May 12 9:00 PM",LeBron James + D'Angelo Russell,42.5,Points
+36,"Fri, May 12 9:00 PM",Anthony Davis + D'Angelo Russell,40.5,Points
+37,"Fri, May 12 9:00 PM",Stephen Curry + Klay Thompson,53.5,Points
+38,"Fri, May 12 9:00 PM",Stephen Curry + Draymond Green,40.5,Points
+39,"Fri, May 12 9:00 PM",LeBron James + Stephen Curry,58.5,Points
+40,"Fri, May 12 9:00 PM",LeBron James + Klay Thompson,48.5,Points
+41,"Fri, May 12 9:00 PM",LeBron James + Draymond Green,35.5,Points
+42,"Fri, May 12 9:00 PM",Anthony Davis + Stephen Curry,56.5,Points
+43,"Fri, May 12 9:00 PM",Anthony Davis + Klay Thompson,46.5,Points
+44,"Sun, May 14 12:10 PM",Joel Embiid,30.5,Points
+45,"Sun, May 14 12:10 PM",Jayson Tatum,29.5,Points
+46,"Sun, May 14 12:10 PM",James Harden,20.5,Points
+47,"Sun, May 14 12:10 PM",Jaylen Brown,23.5,Points
+48,"Sun, May 14 12:10 PM",Tyrese Maxey,21.5,Points
+49,"Sun, May 14 12:10 PM",Marcus Smart,14.5,Points
+50,"Fri, May 12 6:40 PM",Jalen Brunson,5.0,Rebounds
+51,"Fri, May 12 6:40 PM",Jimmy Butler,6.5,Rebounds
+52,"Fri, May 12 6:40 PM",Julius Randle,9.0,Rebounds
+53,"Fri, May 12 6:40 PM",Bam Adebayo,8.5,Rebounds
+54,"Fri, May 12 6:40 PM",RJ Barrett,4.5,Rebounds
+55,"Fri, May 12 6:40 PM",Mitchell Robinson,9.0,Rebounds
+56,"Fri, May 12 6:40 PM",Kevin Love,5.5,Rebounds
+57,"Fri, May 12 6:40 PM",Quentin Grimes,3.5,Rebounds
+58,"Fri, May 12 6:40 PM",Isaiah Hartenstein,4.5,Rebounds
+59,"Fri, May 12 6:40 PM",Kyle Lowry,3.5,Rebounds
+60,"Fri, May 12 6:40 PM",Caleb Martin,4.5,Rebounds
+61,"Fri, May 12 6:30 PM",Jimmy Butler + Bam Adebayo,15.5,Rebounds
+62,"Fri, May 12 6:30 PM",Julius Randle + Jalen Brunson,14.5,Rebounds
+63,"Fri, May 12 6:30 PM",Jalen Brunson + RJ Barrett,10.0,Rebounds
+64,"Fri, May 12 6:30 PM",Bam Adebayo + Kevin Love,14.5,Rebounds
+65,"Fri, May 12 6:30 PM",Julius Randle + Mitchell Robinson,18.5,Rebounds
+66,"Fri, May 12 6:30 PM",Jimmy Butler + Jalen Brunson,12.0,Rebounds
+67,"Fri, May 12 6:30 PM",Jimmy Butler + Julius Randle,16.5,Rebounds
+68,"Fri, May 12 6:30 PM",Bam Adebayo + RJ Barrett,14.0,Rebounds
+69,"Fri, May 12 9:10 PM",Stephen Curry,6.0,Rebounds
+70,"Fri, May 12 9:10 PM",LeBron James,9.0,Rebounds
+71,"Fri, May 12 9:10 PM",Klay Thompson,4.5,Rebounds
+72,"Fri, May 12 9:10 PM",Anthony Davis,13.5,Rebounds
+73,"Fri, May 12 9:10 PM",Andrew Wiggins,5.5,Rebounds
+74,"Fri, May 12 9:10 PM",Draymond Green,7.5,Rebounds
+75,"Fri, May 12 9:10 PM",Austin Reaves,4.0,Rebounds
+76,"Fri, May 12 9:10 PM",Gary Payton II,5.0,Rebounds
+77,"Fri, May 12 9:00 PM",LeBron James + Anthony Davis,23.0,Rebounds
+78,"Fri, May 12 9:00 PM",Stephen Curry + Klay Thompson,10.5,Rebounds
+79,"Fri, May 12 9:00 PM",Stephen Curry + Draymond Green,13.5,Rebounds
+80,"Fri, May 12 9:00 PM",LeBron James + Stephen Curry,15.0,Rebounds
+81,"Fri, May 12 9:00 PM",LeBron James + Klay Thompson,13.5,Rebounds
+82,"Fri, May 12 9:00 PM",LeBron James + Draymond Green,16.5,Rebounds
+83,"Fri, May 12 9:00 PM",Anthony Davis + Stephen Curry,19.5,Rebounds
+84,"Fri, May 12 9:00 PM",Anthony Davis + Klay Thompson,18.0,Rebounds
+85,"Sun, May 14 12:10 PM",Joel Embiid,11.0,Rebounds
+86,"Sun, May 14 12:10 PM",Jayson Tatum,9.5,Rebounds
+87,"Sun, May 14 12:10 PM",James Harden,6.5,Rebounds
+88,"Sun, May 14 12:10 PM",Jaylen Brown,5.5,Rebounds
+89,"Sun, May 14 12:10 PM",Tyrese Maxey,4.5,Rebounds
+90,"Fri, May 12 6:40 PM",Jalen Brunson,4.0,Points In First 6 Minutes
+91,"Fri, May 12 6:40 PM",Jimmy Butler,4.0,Points In First 6 Minutes
+92,"Fri, May 12 6:40 PM",Julius Randle,3.5,Points In First 6 Minutes
+93,"Fri, May 12 6:40 PM",Bam Adebayo,2.5,Points In First 6 Minutes
+94,"Fri, May 12 6:40 PM",RJ Barrett,3.5,Points In First 6 Minutes
+95,"Fri, May 12 6:40 PM",Gabe Vincent,2.0,Points In First 6 Minutes
+96,"Fri, May 12 6:40 PM",Max Strus,2.5,Points In First 6 Minutes
+97,"Fri, May 12 9:00 PM",Stephen Curry,4.5,Points In First 6 Minutes
+98,"Fri, May 12 9:00 PM",LeBron James,4.0,Points In First 6 Minutes
+99,"Fri, May 12 9:00 PM",Klay Thompson,4.5,Points In First 6 Minutes
+100,"Fri, May 12 9:00 PM",Anthony Davis,4.5,Points In First 6 Minutes
+101,"Fri, May 12 9:00 PM",Andrew Wiggins,2.5,Points In First 6 Minutes
+102,"Fri, May 12 9:00 PM",D'Angelo Russell,2.5,Points In First 6 Minutes
+103,"Fri, May 12 9:00 PM",Austin Reaves,2.5,Points In First 6 Minutes
+104,"Fri, May 12 6:40 PM",Jalen Brunson,7.0,3-PT Attempted
+105,"Fri, May 12 6:40 PM",Jimmy Butler,2.5,3-PT Attempted
+106,"Fri, May 12 6:40 PM",Julius Randle,7.0,3-PT Attempted
+107,"Fri, May 12 6:40 PM",RJ Barrett,6.0,3-PT Attempted
+108,"Fri, May 12 6:40 PM",Gabe Vincent,6.5,3-PT Attempted
+109,"Fri, May 12 6:40 PM",Kevin Love,5.0,3-PT Attempted
+110,"Fri, May 12 6:40 PM",Quentin Grimes,6.5,3-PT Attempted
+111,"Fri, May 12 6:40 PM",Max Strus,7.5,3-PT Attempted
+112,"Fri, May 12 6:40 PM",Kyle Lowry,5.0,3-PT Attempted
+113,"Fri, May 12 9:00 PM",Stephen Curry,12.0,3-PT Attempted
+114,"Fri, May 12 9:00 PM",LeBron James,7.5,3-PT Attempted
+115,"Fri, May 12 9:00 PM",Klay Thompson,11.0,3-PT Attempted
+116,"Fri, May 12 9:00 PM",Andrew Wiggins,5.0,3-PT Attempted
+117,"Fri, May 12 9:00 PM",D'Angelo Russell,6.0,3-PT Attempted
+118,"Fri, May 12 9:00 PM",Draymond Green,1.5,3-PT Attempted
+119,"Fri, May 12 9:00 PM",Austin Reaves,5.0,3-PT Attempted
+120,"Fri, May 12 6:40 PM",Jalen Brunson,7.0,Assists
+121,"Fri, May 12 6:40 PM",Jimmy Butler,7.0,Assists
+122,"Fri, May 12 6:40 PM",Julius Randle,3.5,Assists
+123,"Fri, May 12 6:40 PM",Gabe Vincent,4.0,Assists
+124,"Fri, May 12 6:40 PM",Kyle Lowry,4.5,Assists
+125,"Fri, May 12 6:30 PM",Jimmy Butler + Bam Adebayo,9.5,Assists
+126,"Fri, May 12 6:30 PM",Julius Randle + Jalen Brunson,10.5,Assists
+127,"Fri, May 12 6:30 PM",Jimmy Butler + Gabe Vincent,11.0,Assists
+128,"Fri, May 12 6:30 PM",Jalen Brunson + RJ Barrett,9.5,Assists
+129,"Fri, May 12 6:30 PM",Jimmy Butler + Jalen Brunson,14.0,Assists
+130,"Fri, May 12 6:30 PM",Jimmy Butler + Julius Randle,10.5,Assists
+131,"Fri, May 12 6:30 PM",Gabe Vincent + Jalen Brunson,11.0,Assists
+132,"Fri, May 12 9:10 PM",Stephen Curry,7.0,Assists
+133,"Fri, May 12 9:10 PM",LeBron James,6.0,Assists
+134,"Fri, May 12 9:10 PM",D'Angelo Russell,5.0,Assists
+135,"Fri, May 12 9:10 PM",Draymond Green,7.0,Assists
+136,"Fri, May 12 9:10 PM",Austin Reaves,4.0,Assists
+137,"Fri, May 12 9:00 PM",LeBron James + D'Angelo Russell,11.0,Assists
+138,"Fri, May 12 9:00 PM",Stephen Curry + Draymond Green,14.0,Assists
+139,"Fri, May 12 9:00 PM",LeBron James + Stephen Curry,12.5,Assists
+140,"Fri, May 12 9:00 PM",LeBron James + Draymond Green,12.5,Assists
+141,"Sun, May 14 12:10 PM",Jayson Tatum,5.0,Assists
+142,"Sun, May 14 12:10 PM",James Harden,9.0,Assists
+143,"Sun, May 14 12:10 PM",Jaylen Brown,3.5,Assists
+144,"Sun, May 14 12:10 PM",Tyrese Maxey,2.5,Assists
+145,"Sun, May 14 12:10 PM",Marcus Smart,5.5,Assists
+146,"Fri, May 12 6:40 PM",Jalen Brunson,40.0,Pts+Rebs+Asts
+147,"Fri, May 12 6:40 PM",Jimmy Butler,42.5,Pts+Rebs+Asts
+148,"Fri, May 12 6:40 PM",Julius Randle,35.5,Pts+Rebs+Asts
+149,"Fri, May 12 6:40 PM",Bam Adebayo,29.5,Pts+Rebs+Asts
+150,"Fri, May 12 6:40 PM",RJ Barrett,28.5,Pts+Rebs+Asts
+151,"Fri, May 12 6:40 PM",Gabe Vincent,15.5,Pts+Rebs+Asts
+152,"Fri, May 12 6:40 PM",Mitchell Robinson,15.5,Pts+Rebs+Asts
+153,"Fri, May 12 6:40 PM",Kevin Love,15.5,Pts+Rebs+Asts
+154,"Fri, May 12 6:40 PM",Quentin Grimes,16.5,Pts+Rebs+Asts
+155,"Fri, May 12 6:40 PM",Max Strus,17.5,Pts+Rebs+Asts
+156,"Fri, May 12 6:40 PM",Isaiah Hartenstein,8.5,Pts+Rebs+Asts
+157,"Fri, May 12 6:40 PM",Kyle Lowry,19.5,Pts+Rebs+Asts
+158,"Fri, May 12 6:40 PM",Caleb Martin,14.5,Pts+Rebs+Asts
+159,"Fri, May 12 6:40 PM",Duncan Robinson,7.5,Pts+Rebs+Asts
+160,"Fri, May 12 9:10 PM",Stephen Curry,44.5,Pts+Rebs+Asts
+161,"Fri, May 12 9:10 PM",LeBron James,41.5,Pts+Rebs+Asts
+162,"Fri, May 12 9:10 PM",Klay Thompson,29.0,Pts+Rebs+Asts
+163,"Fri, May 12 9:10 PM",Anthony Davis,41.5,Pts+Rebs+Asts
+164,"Fri, May 12 9:10 PM",Andrew Wiggins,24.5,Pts+Rebs+Asts
+165,"Fri, May 12 9:10 PM",D'Angelo Russell,23.5,Pts+Rebs+Asts
+166,"Fri, May 12 9:10 PM",Draymond Green,23.5,Pts+Rebs+Asts
+167,"Fri, May 12 9:10 PM",Austin Reaves,22.5,Pts+Rebs+Asts
+168,"Fri, May 12 9:10 PM",Dennis Schroder,16.5,Pts+Rebs+Asts
+169,"Fri, May 12 9:10 PM",Gary Payton II,16.5,Pts+Rebs+Asts
+170,"Sun, May 14 12:10 PM",Joel Embiid,44.5,Pts+Rebs+Asts
+171,"Sun, May 14 12:10 PM",Jayson Tatum,44.5,Pts+Rebs+Asts
+172,"Sun, May 14 12:10 PM",James Harden,36.5,Pts+Rebs+Asts
+173,"Sun, May 14 12:10 PM",Jaylen Brown,33.5,Pts+Rebs+Asts
+174,"Sun, May 14 12:10 PM",Tyrese Maxey,28.5,Pts+Rebs+Asts
+175,"Sun, May 14 12:10 PM",Marcus Smart,23.5,Pts+Rebs+Asts
+176,"Fri, May 12 6:40 PM",Jalen Brunson,10.0,FG Made
+177,"Fri, May 12 6:40 PM",Jimmy Butler,9.5,FG Made
+178,"Fri, May 12 6:40 PM",Julius Randle,8.0,FG Made
+179,"Fri, May 12 6:40 PM",Bam Adebayo,7.5,FG Made
+180,"Fri, May 12 6:40 PM",RJ Barrett,7.5,FG Made
+181,"Fri, May 12 6:40 PM",Gabe Vincent,4.0,FG Made
+182,"Fri, May 12 6:40 PM",Mitchell Robinson,2.5,FG Made
+183,"Fri, May 12 6:40 PM",Kevin Love,3.0,FG Made
+184,"Fri, May 12 6:40 PM",Quentin Grimes,3.5,FG Made
+185,"Fri, May 12 6:40 PM",Max Strus,5.0,FG Made
+186,"Fri, May 12 6:40 PM",Kyle Lowry,4.0,FG Made
+187,"Fri, May 12 9:00 PM",Stephen Curry,11.5,FG Made
+188,"Fri, May 12 9:00 PM",LeBron James,10.0,FG Made
+189,"Fri, May 12 9:00 PM",Klay Thompson,8.0,FG Made
+190,"Fri, May 12 9:00 PM",Anthony Davis,10.0,FG Made
+191,"Fri, May 12 9:00 PM",Andrew Wiggins,6.5,FG Made
+192,"Fri, May 12 9:00 PM",D'Angelo Russell,6.0,FG Made
+193,"Fri, May 12 9:00 PM",Draymond Green,3.5,FG Made
+194,"Fri, May 12 9:00 PM",Austin Reaves,5.0,FG Made
+195,"Fri, May 12 6:40 PM",Jalen Brunson,45.5,Fantasy Score
+196,"Fri, May 12 6:40 PM",Jimmy Butler,52.0,Fantasy Score
+197,"Fri, May 12 6:40 PM",Julius Randle,39.0,Fantasy Score
+198,"Fri, May 12 6:40 PM",Bam Adebayo,34.5,Fantasy Score
+199,"Fri, May 12 6:40 PM",RJ Barrett,31.0,Fantasy Score
+200,"Fri, May 12 6:40 PM",Max Strus,20.0,Fantasy Score
+201,"Fri, May 12 6:40 PM",Kyle Lowry,24.5,Fantasy Score
+202,"Fri, May 12 9:10 PM",Stephen Curry,50.0,Fantasy Score
+203,"Fri, May 12 9:10 PM",LeBron James,48.5,Fantasy Score
+204,"Fri, May 12 9:10 PM",Klay Thompson,32.0,Fantasy Score
+205,"Fri, May 12 9:10 PM",Anthony Davis,52.5,Fantasy Score
+206,"Fri, May 12 9:10 PM",Andrew Wiggins,29.5,Fantasy Score
+207,"Fri, May 12 9:10 PM",D'Angelo Russell,29.0,Fantasy Score
+208,"Fri, May 12 9:10 PM",Draymond Green,32.0,Fantasy Score
+209,"Fri, May 12 9:10 PM",Austin Reaves,27.0,Fantasy Score
+210,"Fri, May 12 6:40 PM",Jalen Brunson,2.5,3-PT Made
+211,"Fri, May 12 6:40 PM",Julius Randle,2.5,3-PT Made
+212,"Fri, May 12 6:40 PM",Kevin Love,1.5,3-PT Made
+213,"Fri, May 12 6:30 PM",Julius Randle + Jalen Brunson,5.5,3-PT Made
+214,"Fri, May 12 6:30 PM",Jimmy Butler + Gabe Vincent,3.0,3-PT Made
+215,"Fri, May 12 6:30 PM",Jalen Brunson + RJ Barrett,5.0,3-PT Made
+216,"Fri, May 12 6:30 PM",Jimmy Butler + Jalen Brunson,3.5,3-PT Made
+217,"Fri, May 12 6:30 PM",Jimmy Butler + Julius Randle,3.5,3-PT Made
+218,"Fri, May 12 6:30 PM",Gabe Vincent + Jalen Brunson,5.0,3-PT Made
+219,"Fri, May 12 9:10 PM",Stephen Curry,5.0,3-PT Made
+220,"Fri, May 12 9:10 PM",Gary Payton II,0.5,3-PT Made
+221,"Fri, May 12 9:00 PM",LeBron James + D'Angelo Russell,5.0,3-PT Made
+222,"Fri, May 12 9:00 PM",Stephen Curry + Klay Thompson,9.5,3-PT Made
+223,"Fri, May 12 9:00 PM",LeBron James + Stephen Curry,7.5,3-PT Made
+224,"Fri, May 12 9:00 PM",LeBron James + Klay Thompson,7.0,3-PT Made
+225,"Fri, May 12 6:40 PM",Jalen Brunson,32.5,Pts+Rebs
+226,"Fri, May 12 6:40 PM",Jimmy Butler,35.5,Pts+Rebs
+227,"Fri, May 12 6:40 PM",Julius Randle,31.5,Pts+Rebs
+228,"Fri, May 12 6:40 PM",Bam Adebayo,26.5,Pts+Rebs
+229,"Fri, May 12 6:40 PM",RJ Barrett,25.5,Pts+Rebs
+230,"Fri, May 12 6:40 PM",Gabe Vincent,11.5,Pts+Rebs
+231,"Fri, May 12 6:40 PM",Mitchell Robinson,14.5,Pts+Rebs
+232,"Fri, May 12 6:40 PM",Kevin Love,13.5,Pts+Rebs
+233,"Fri, May 12 6:40 PM",Quentin Grimes,14.0,Pts+Rebs
+234,"Fri, May 12 6:40 PM",Max Strus,15.5,Pts+Rebs
+235,"Fri, May 12 6:40 PM",Kyle Lowry,14.5,Pts+Rebs
+236,"Fri, May 12 6:40 PM",Caleb Martin,13.5,Pts+Rebs
+237,"Fri, May 12 9:10 PM",Stephen Curry,38.0,Pts+Rebs
+238,"Fri, May 12 9:10 PM",LeBron James,35.5,Pts+Rebs
+239,"Fri, May 12 9:10 PM",Klay Thompson,26.5,Pts+Rebs
+240,"Fri, May 12 9:10 PM",Anthony Davis,38.5,Pts+Rebs
+241,"Fri, May 12 9:10 PM",Andrew Wiggins,22.5,Pts+Rebs
+242,"Fri, May 12 9:10 PM",D'Angelo Russell,18.5,Pts+Rebs
+243,"Fri, May 12 9:10 PM",Draymond Green,17.5,Pts+Rebs
+244,"Fri, May 12 9:10 PM",Austin Reaves,18.5,Pts+Rebs
+245,"Fri, May 12 9:10 PM",Dennis Schroder,12.5,Pts+Rebs
+246,"Fri, May 12 9:10 PM",Gary Payton II,14.5,Pts+Rebs
+247,"Sun, May 14 12:10 PM",Joel Embiid,41.5,Pts+Rebs
+248,"Sun, May 14 12:10 PM",Jayson Tatum,39.5,Pts+Rebs
+249,"Sun, May 14 12:10 PM",James Harden,27.5,Pts+Rebs
+250,"Sun, May 14 12:10 PM",Jaylen Brown,29.5,Pts+Rebs
+251,"Sun, May 14 12:10 PM",Tyrese Maxey,25.5,Pts+Rebs
+252,"Sun, May 14 12:10 PM",Marcus Smart,17.5,Pts+Rebs
+253,"Fri, May 12 6:40 PM",Jimmy Butler,1.5,Dunks
+254,"Fri, May 12 6:40 PM",Julius Randle,0.5,Dunks
+255,"Fri, May 12 6:40 PM",Bam Adebayo,1.5,Dunks
+256,"Fri, May 12 6:40 PM",Mitchell Robinson,2.0,Dunks
+257,"Fri, May 12 9:00 PM",LeBron James,1.0,Dunks
+258,"Fri, May 12 9:00 PM",Anthony Davis,2.5,Dunks
+259,"Fri, May 12 9:00 PM",Andrew Wiggins,0.5,Dunks
+260,"Fri, May 12 6:40 PM",Jalen Brunson,20.5,FG Attempted
+261,"Fri, May 12 6:40 PM",Jimmy Butler,19.0,FG Attempted
+262,"Fri, May 12 6:40 PM",Julius Randle,18.5,FG Attempted
+263,"Fri, May 12 6:40 PM",Bam Adebayo,13.5,FG Attempted
+264,"Fri, May 12 6:40 PM",RJ Barrett,17.5,FG Attempted
+265,"Fri, May 12 6:40 PM",Gabe Vincent,10.5,FG Attempted
+266,"Fri, May 12 6:40 PM",Mitchell Robinson,4.5,FG Attempted
+267,"Fri, May 12 6:40 PM",Kevin Love,8.0,FG Attempted
+268,"Fri, May 12 6:40 PM",Quentin Grimes,8.0,FG Attempted
+269,"Fri, May 12 6:40 PM",Max Strus,11.5,FG Attempted
+270,"Fri, May 12 6:40 PM",Kyle Lowry,10.0,FG Attempted
+271,"Fri, May 12 9:00 PM",Stephen Curry,24.5,FG Attempted
+272,"Fri, May 12 9:00 PM",LeBron James,22.0,FG Attempted
+273,"Fri, May 12 9:00 PM",Klay Thompson,18.0,FG Attempted
+274,"Fri, May 12 9:00 PM",Anthony Davis,18.0,FG Attempted
+275,"Fri, May 12 9:00 PM",Andrew Wiggins,14.5,FG Attempted
+276,"Fri, May 12 9:00 PM",D'Angelo Russell,13.0,FG Attempted
+277,"Fri, May 12 9:00 PM",Draymond Green,7.5,FG Attempted
+278,"Fri, May 12 9:00 PM",Austin Reaves,12.0,FG Attempted
+279,"Fri, May 12 6:40 PM",Jalen Brunson,2.5,Personal Fouls
+280,"Fri, May 12 6:40 PM",Jimmy Butler,2.0,Personal Fouls
+281,"Fri, May 12 6:40 PM",Julius Randle,3.0,Personal Fouls
+282,"Fri, May 12 6:40 PM",Bam Adebayo,3.5,Personal Fouls
+283,"Fri, May 12 6:40 PM",RJ Barrett,2.5,Personal Fouls
+284,"Fri, May 12 6:40 PM",Mitchell Robinson,3.5,Personal Fouls
+285,"Fri, May 12 9:00 PM",Stephen Curry,2.5,Personal Fouls
+286,"Fri, May 12 9:00 PM",LeBron James,2.0,Personal Fouls
+287,"Fri, May 12 9:00 PM",Klay Thompson,2.5,Personal Fouls
+288,"Fri, May 12 9:00 PM",Anthony Davis,2.5,Personal Fouls
+289,"Fri, May 12 9:00 PM",Andrew Wiggins,3.0,Personal Fouls
+290,"Fri, May 12 9:00 PM",D'Angelo Russell,2.0,Personal Fouls
+291,"Fri, May 12 9:00 PM",Draymond Green,4.0,Personal Fouls
+292,"Fri, May 12 9:00 PM",Austin Reaves,2.0,Personal Fouls
+293,"Fri, May 12 6:40 PM",Jalen Brunson,34.5,Pts+Asts
+294,"Fri, May 12 6:40 PM",Jimmy Butler,35.5,Pts+Asts
+295,"Fri, May 12 6:40 PM",Julius Randle,26.5,Pts+Asts
+296,"Fri, May 12 6:40 PM",Bam Adebayo,20.5,Pts+Asts
+297,"Fri, May 12 6:40 PM",RJ Barrett,23.5,Pts+Asts
+298,"Fri, May 12 6:40 PM",Gabe Vincent,13.5,Pts+Asts
+299,"Fri, May 12 6:40 PM",Quentin Grimes,12.5,Pts+Asts
+300,"Fri, May 12 6:40 PM",Max Strus,13.5,Pts+Asts
+301,"Fri, May 12 6:40 PM",Kyle Lowry,15.5,Pts+Asts
+302,"Fri, May 12 9:10 PM",Stephen Curry,39.5,Pts+Asts
+303,"Fri, May 12 9:10 PM",LeBron James,32.5,Pts+Asts
+304,"Fri, May 12 9:10 PM",Klay Thompson,24.5,Pts+Asts
+305,"Fri, May 12 9:10 PM",Anthony Davis,27.5,Pts+Asts
+306,"Fri, May 12 9:10 PM",Andrew Wiggins,18.5,Pts+Asts
+307,"Fri, May 12 9:10 PM",D'Angelo Russell,20.5,Pts+Asts
+308,"Fri, May 12 9:10 PM",Draymond Green,16.5,Pts+Asts
+309,"Fri, May 12 9:10 PM",Austin Reaves,18.5,Pts+Asts
+310,"Fri, May 12 9:10 PM",Dennis Schroder,13.5,Pts+Asts
+311,"Fri, May 12 9:10 PM",Gary Payton II,10.5,Pts+Asts
+312,"Sun, May 14 12:10 PM",Joel Embiid,33.5,Pts+Asts
+313,"Sun, May 14 12:10 PM",Jayson Tatum,34.5,Pts+Asts
+314,"Sun, May 14 12:10 PM",James Harden,29.5,Pts+Asts
+315,"Sun, May 14 12:10 PM",Jaylen Brown,27.5,Pts+Asts
+316,"Sun, May 14 12:10 PM",Tyrese Maxey,23.5,Pts+Asts
+317,"Sun, May 14 12:10 PM",Marcus Smart,20.5,Pts+Asts
+318,"Fri, May 12 6:40 PM",Jalen Brunson,12.0,Rebs+Asts
+319,"Fri, May 12 6:40 PM",Jimmy Butler,13.5,Rebs+Asts
+320,"Fri, May 12 6:40 PM",Julius Randle,12.5,Rebs+Asts
+321,"Fri, May 12 6:40 PM",Bam Adebayo,11.5,Rebs+Asts
+322,"Fri, May 12 6:40 PM",RJ Barrett,7.5,Rebs+Asts
+323,"Fri, May 12 6:40 PM",Kevin Love,7.5,Rebs+Asts
+324,"Fri, May 12 6:40 PM",Kyle Lowry,8.0,Rebs+Asts
+325,"Fri, May 12 9:10 PM",Stephen Curry,13.0,Rebs+Asts
+326,"Fri, May 12 9:10 PM",LeBron James,15.0,Rebs+Asts
+327,"Fri, May 12 9:10 PM",Anthony Davis,16.5,Rebs+Asts
+328,"Fri, May 12 9:10 PM",Andrew Wiggins,8.0,Rebs+Asts
+329,"Fri, May 12 9:10 PM",D'Angelo Russell,8.5,Rebs+Asts
+330,"Fri, May 12 9:10 PM",Draymond Green,14.5,Rebs+Asts
+331,"Fri, May 12 9:10 PM",Austin Reaves,8.0,Rebs+Asts
+332,"Sun, May 14 12:10 PM",Joel Embiid,14.5,Rebs+Asts
+333,"Sun, May 14 12:10 PM",Jayson Tatum,15.0,Rebs+Asts
+334,"Sun, May 14 12:10 PM",James Harden,15.5,Rebs+Asts
+335,"Sun, May 14 12:10 PM",Jaylen Brown,9.5,Rebs+Asts
+336,"Sun, May 14 12:10 PM",Tyrese Maxey,7.5,Rebs+Asts
+337,"Sun, May 14 12:10 PM",Marcus Smart,9.0,Rebs+Asts
+338,"Fri, May 12 6:40 PM",Jalen Brunson,5.5,Free Throws Made
+339,"Fri, May 12 6:40 PM",Jimmy Butler,8.5,Free Throws Made
+340,"Fri, May 12 6:40 PM",Julius Randle,4.0,Free Throws Made
+341,"Fri, May 12 6:40 PM",Bam Adebayo,3.5,Free Throws Made
+342,"Fri, May 12 6:40 PM",RJ Barrett,3.5,Free Throws Made
+343,"Fri, May 12 6:40 PM",Kyle Lowry,1.5,Free Throws Made
+344,"Fri, May 12 6:40 PM",Quentin Grimes,0.5,Free Throws Made
+345,"Fri, May 12 6:40 PM",Caleb Martin,1.5,Free Throws Made
+346,"Fri, May 12 6:40 PM",Isaiah Hartenstein,0.5,Free Throws Made
+347,"Fri, May 12 6:40 PM",Kevin Love,0.5,Free Throws Made
+348,"Fri, May 12 6:40 PM",Gabe Vincent,0.5,Free Throws Made
+349,"Fri, May 12 6:40 PM",Mitchell Robinson,1.5,Free Throws Made
+350,"Fri, May 12 6:40 PM",Max Strus,0.5,Free Throws Made
+351,"Fri, May 12 9:10 PM",Stephen Curry,4.0,Free Throws Made
+352,"Fri, May 12 9:10 PM",LeBron James,4.5,Free Throws Made
+353,"Fri, May 12 9:10 PM",Klay Thompson,1.0,Free Throws Made
+354,"Fri, May 12 9:10 PM",Anthony Davis,5.5,Free Throws Made
+355,"Fri, May 12 9:10 PM",Andrew Wiggins,2.5,Free Throws Made
+356,"Fri, May 12 9:10 PM",D'Angelo Russell,1.0,Free Throws Made
+357,"Fri, May 12 9:10 PM",Draymond Green,1.0,Free Throws Made
+358,"Fri, May 12 9:10 PM",Austin Reaves,2.5,Free Throws Made
+359,"Fri, May 12 9:10 PM",Dennis Schroder,1.5,Free Throws Made
+360,"Fri, May 12 9:10 PM",Rui Hachimura,0.5,Free Throws Made
+361,"Fri, May 12 6:40 PM",Jimmy Butler,2.5,Blks+Stls
+362,"Fri, May 12 6:40 PM",Bam Adebayo,1.5,Blks+Stls
+363,"Fri, May 12 6:40 PM",Kevin Love,0.5,Blks+Stls
+364,"Fri, May 12 9:10 PM",Anthony Davis,3.5,Blks+Stls
+365,"Sun, May 14 12:10 PM",Marcus Smart,1.5,Blks+Stls
+366,"Fri, May 12 6:40 PM",Jimmy Butler,0.5,Blocked Shots
+367,"Fri, May 12 6:40 PM",Julius Randle,0.5,Steals
+368,"Fri, May 12 6:40 PM",RJ Barrett,0.5,Steals
+369,"Fri, May 12 6:40 PM",Mitchell Robinson,0.5,Steals
+370,"Fri, May 12 6:40 PM",Isaiah Hartenstein,0.5,Steals
+371,"Fri, May 12 6:40 PM",Caleb Martin,0.5,Steals
+372,"Fri, May 12 6:40 PM",Max Strus,0.5,Turnovers
+373,"Fri, May 12 6:40 PM",Isaiah Hartenstein,0.5,Turnovers
+374,"Fri, May 12 9:10 PM",Klay Thompson,1.5,Turnovers
+375,"Fri, May 12 9:10 PM",Anthony Davis,2.5,Turnovers
+376,"Fri, May 12 9:10 PM",Draymond Green,2.5,Turnovers
+377,"Fri, May 12 9:10 PM",Austin Reaves,1.5,Turnovers

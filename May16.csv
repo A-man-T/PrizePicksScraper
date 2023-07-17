@@ -1,0 +1,250 @@
+,Date,Name,Points,Prop
+0,"Tue, May 16 7:40 PM",LeBron James,25.0,Points
+1,"Tue, May 16 7:40 PM",Nikola Jokic,27.5,Points
+2,"Tue, May 16 7:40 PM",Anthony Davis,22.5,Points
+3,"Tue, May 16 7:40 PM",Jamal Murray,24.5,Points
+4,"Tue, May 16 7:40 PM",D'Angelo Russell,14.5,Points
+5,"Tue, May 16 7:40 PM",Michael Porter Jr.,14.5,Points
+6,"Tue, May 16 7:40 PM",Austin Reaves,14.5,Points
+7,"Tue, May 16 7:40 PM",Aaron Gordon,13.5,Points
+8,"Tue, May 16 7:40 PM",Dennis Schroder,8.5,Points
+9,"Tue, May 16 7:40 PM",Kentavious Caldwell-Pope,9.5,Points
+10,"Tue, May 16 7:40 PM",Lonnie Walker IV,8.5,Points
+11,"Tue, May 16 7:40 PM",Bruce Brown,11.5,Points
+12,"Wed, May 17 7:40 PM",Jimmy Butler,27.5,Points
+13,"Wed, May 17 7:40 PM",Jayson Tatum,29.5,Points
+14,"Wed, May 17 7:40 PM",Bam Adebayo,17.5,Points
+15,"Wed, May 17 7:40 PM",Jaylen Brown,24.5,Points
+16,"Wed, May 17 7:40 PM",Gabe Vincent,9.5,Points
+17,"Wed, May 17 7:40 PM",Marcus Smart,14.5,Points
+18,"Wed, May 17 7:40 PM",Max Strus,11.5,Points
+19,"Wed, May 17 7:40 PM",Al Horford,7.5,Points
+20,"Wed, May 17 7:40 PM",Kyle Lowry,10.5,Points
+21,"Wed, May 17 7:40 PM",Malcolm Brogdon,14.5,Points
+22,"Wed, May 17 7:40 PM",Caleb Martin,8.5,Points
+23,"Wed, May 17 7:40 PM",Kevin Love,7.0,Points
+24,"Wed, May 17 7:40 PM",Robert Williams III,7.0,Points
+25,"Tue, May 16 7:30 PM",LeBron James,38.5,Minutes Played
+26,"Tue, May 16 7:30 PM",Nikola Jokic,38.5,Minutes Played
+27,"Tue, May 16 7:30 PM",Anthony Davis,37.5,Minutes Played
+28,"Tue, May 16 7:30 PM",Jamal Murray,39.0,Minutes Played
+29,"Wed, May 17 7:40 PM",Jimmy Butler,42.0,Minutes Played
+30,"Wed, May 17 7:40 PM",Jayson Tatum,41.0,Minutes Played
+31,"Wed, May 17 7:40 PM",Bam Adebayo,38.0,Minutes Played
+32,"Wed, May 17 7:40 PM",Jaylen Brown,39.0,Minutes Played
+33,"Tue, May 16 7:40 PM",LeBron James,9.0,Rebounds
+34,"Tue, May 16 7:40 PM",Nikola Jokic,13.0,Rebounds
+35,"Tue, May 16 7:40 PM",Anthony Davis,13.0,Rebounds
+36,"Tue, May 16 7:40 PM",Jamal Murray,4.5,Rebounds
+37,"Tue, May 16 7:40 PM",Michael Porter Jr.,6.0,Rebounds
+38,"Tue, May 16 7:40 PM",Austin Reaves,4.0,Rebounds
+39,"Tue, May 16 7:40 PM",Aaron Gordon,6.0,Rebounds
+40,"Tue, May 16 7:40 PM",Bruce Brown,4.0,Rebounds
+41,"Wed, May 17 7:40 PM",Jimmy Butler,7.0,Rebounds
+42,"Wed, May 17 7:40 PM",Jayson Tatum,9.5,Rebounds
+43,"Wed, May 17 7:40 PM",Bam Adebayo,9.0,Rebounds
+44,"Wed, May 17 7:40 PM",Jaylen Brown,6.0,Rebounds
+45,"Wed, May 17 7:40 PM",Marcus Smart,3.5,Rebounds
+46,"Wed, May 17 7:40 PM",Max Strus,3.5,Rebounds
+47,"Wed, May 17 7:40 PM",Al Horford,6.5,Rebounds
+48,"Wed, May 17 7:40 PM",Kyle Lowry,3.5,Rebounds
+49,"Wed, May 17 7:40 PM",Malcolm Brogdon,3.5,Rebounds
+50,"Wed, May 17 7:40 PM",Caleb Martin,4.5,Rebounds
+51,"Wed, May 17 7:40 PM",Kevin Love,5.0,Rebounds
+52,"Wed, May 17 7:40 PM",Robert Williams III,7.5,Rebounds
+53,"Tue, May 16 7:40 PM",LeBron James,4.0,Points In First 6 Minutes
+54,"Tue, May 16 7:40 PM",Nikola Jokic,4.5,Points In First 6 Minutes
+55,"Tue, May 16 7:40 PM",Anthony Davis,4.0,Points In First 6 Minutes
+56,"Tue, May 16 7:40 PM",Jamal Murray,4.0,Points In First 6 Minutes
+57,"Tue, May 16 7:40 PM",D'Angelo Russell,2.5,Points In First 6 Minutes
+58,"Tue, May 16 7:40 PM",Michael Porter Jr.,3.0,Points In First 6 Minutes
+59,"Tue, May 16 7:40 PM",Austin Reaves,2.5,Points In First 6 Minutes
+60,"Tue, May 16 7:40 PM",Aaron Gordon,2.5,Points In First 6 Minutes
+61,"Tue, May 16 7:40 PM",LeBron James,7.5,3-PT Attempted
+62,"Tue, May 16 7:40 PM",Nikola Jokic,3.0,3-PT Attempted
+63,"Tue, May 16 7:40 PM",Jamal Murray,7.0,3-PT Attempted
+64,"Tue, May 16 7:40 PM",D'Angelo Russell,6.0,3-PT Attempted
+65,"Tue, May 16 7:40 PM",Michael Porter Jr.,7.0,3-PT Attempted
+66,"Tue, May 16 7:40 PM",Austin Reaves,5.0,3-PT Attempted
+67,"Tue, May 16 7:40 PM",Aaron Gordon,2.5,3-PT Attempted
+68,"Tue, May 16 7:40 PM",LeBron James,5.5,Assists
+69,"Tue, May 16 7:40 PM",Nikola Jokic,9.5,Assists
+70,"Tue, May 16 7:40 PM",Anthony Davis,2.5,Assists
+71,"Tue, May 16 7:40 PM",Jamal Murray,6.0,Assists
+72,"Tue, May 16 7:40 PM",D'Angelo Russell,5.0,Assists
+73,"Tue, May 16 7:40 PM",Austin Reaves,4.0,Assists
+74,"Wed, May 17 7:40 PM",Jimmy Butler,5.5,Assists
+75,"Wed, May 17 7:40 PM",Jayson Tatum,5.0,Assists
+76,"Wed, May 17 7:40 PM",Bam Adebayo,2.5,Assists
+77,"Wed, May 17 7:40 PM",Jaylen Brown,3.5,Assists
+78,"Wed, May 17 7:40 PM",Gabe Vincent,3.5,Assists
+79,"Wed, May 17 7:40 PM",Marcus Smart,5.0,Assists
+80,"Wed, May 17 7:40 PM",Kyle Lowry,4.0,Assists
+81,"Wed, May 17 7:40 PM",Kevin Love,1.5,Assists
+82,"Tue, May 16 7:40 PM",LeBron James,39.5,Pts+Rebs+Asts
+83,"Tue, May 16 7:40 PM",Nikola Jokic,51.5,Pts+Rebs+Asts
+84,"Tue, May 16 7:40 PM",Anthony Davis,38.5,Pts+Rebs+Asts
+85,"Tue, May 16 7:40 PM",Jamal Murray,35.5,Pts+Rebs+Asts
+86,"Tue, May 16 7:40 PM",D'Angelo Russell,23.5,Pts+Rebs+Asts
+87,"Tue, May 16 7:40 PM",Michael Porter Jr.,22.5,Pts+Rebs+Asts
+88,"Tue, May 16 7:40 PM",Austin Reaves,22.5,Pts+Rebs+Asts
+89,"Tue, May 16 7:40 PM",Aaron Gordon,22.0,Pts+Rebs+Asts
+90,"Tue, May 16 7:40 PM",Dennis Schroder,14.5,Pts+Rebs+Asts
+91,"Wed, May 17 7:40 PM",Jimmy Butler,40.5,Pts+Rebs+Asts
+92,"Wed, May 17 7:40 PM",Jayson Tatum,44.5,Pts+Rebs+Asts
+93,"Wed, May 17 7:40 PM",Bam Adebayo,29.5,Pts+Rebs+Asts
+94,"Wed, May 17 7:40 PM",Jaylen Brown,33.5,Pts+Rebs+Asts
+95,"Wed, May 17 7:40 PM",Gabe Vincent,15.5,Pts+Rebs+Asts
+96,"Wed, May 17 7:40 PM",Marcus Smart,22.5,Pts+Rebs+Asts
+97,"Wed, May 17 7:40 PM",Max Strus,16.5,Pts+Rebs+Asts
+98,"Wed, May 17 7:40 PM",Al Horford,17.5,Pts+Rebs+Asts
+99,"Wed, May 17 7:40 PM",Kyle Lowry,18.5,Pts+Rebs+Asts
+100,"Wed, May 17 7:40 PM",Malcolm Brogdon,21.5,Pts+Rebs+Asts
+101,"Wed, May 17 7:40 PM",Caleb Martin,14.5,Pts+Rebs+Asts
+102,"Wed, May 17 7:40 PM",Kevin Love,13.5,Pts+Rebs+Asts
+103,"Wed, May 17 7:40 PM",Robert Williams III,16.5,Pts+Rebs+Asts
+104,"Tue, May 16 7:40 PM",LeBron James,9.5,FG Made
+105,"Tue, May 16 7:40 PM",Nikola Jokic,11.0,FG Made
+106,"Tue, May 16 7:40 PM",Anthony Davis,9.5,FG Made
+107,"Tue, May 16 7:40 PM",Jamal Murray,9.5,FG Made
+108,"Tue, May 16 7:40 PM",D'Angelo Russell,5.5,FG Made
+109,"Tue, May 16 7:40 PM",Michael Porter Jr.,5.5,FG Made
+110,"Tue, May 16 7:40 PM",Austin Reaves,5.0,FG Made
+111,"Tue, May 16 7:40 PM",Aaron Gordon,5.5,FG Made
+112,"Tue, May 16 7:40 PM",LeBron James,47.0,Fantasy Score
+113,"Tue, May 16 7:40 PM",Nikola Jokic,61.5,Fantasy Score
+114,"Tue, May 16 7:40 PM",Anthony Davis,50.5,Fantasy Score
+115,"Tue, May 16 7:40 PM",Jamal Murray,41.5,Fantasy Score
+116,"Tue, May 16 7:40 PM",D'Angelo Russell,26.5,Fantasy Score
+117,"Tue, May 16 7:40 PM",Michael Porter Jr.,26.5,Fantasy Score
+118,"Tue, May 16 7:40 PM",Austin Reaves,26.0,Fantasy Score
+119,"Tue, May 16 7:40 PM",Aaron Gordon,27.0,Fantasy Score
+120,"Wed, May 17 7:40 PM",Jimmy Butler,48.0,Fantasy Score
+121,"Wed, May 17 7:40 PM",Jayson Tatum,52.0,Fantasy Score
+122,"Wed, May 17 7:40 PM",Bam Adebayo,35.0,Fantasy Score
+123,"Wed, May 17 7:40 PM",Jaylen Brown,37.5,Fantasy Score
+124,"Wed, May 17 7:40 PM",Gabe Vincent,18.5,Fantasy Score
+125,"Wed, May 17 7:40 PM",Marcus Smart,28.5,Fantasy Score
+126,"Wed, May 17 7:40 PM",Max Strus,20.0,Fantasy Score
+127,"Wed, May 17 7:40 PM",Al Horford,25.5,Fantasy Score
+128,"Wed, May 17 7:40 PM",Kyle Lowry,24.0,Fantasy Score
+129,"Wed, May 17 7:40 PM",Malcolm Brogdon,25.0,Fantasy Score
+130,"Tue, May 16 7:40 PM",Austin Reaves,1.5,3-PT Made
+131,"Tue, May 16 7:40 PM",Bruce Brown,0.5,3-PT Made
+132,"Wed, May 17 7:40 PM",Jaylen Brown,2.5,3-PT Made
+133,"Wed, May 17 7:40 PM",Max Strus,2.5,3-PT Made
+134,"Wed, May 17 7:40 PM",Kevin Love,1.5,3-PT Made
+135,"Tue, May 16 7:40 PM",LeBron James,34.5,Pts+Rebs
+136,"Tue, May 16 7:40 PM",Nikola Jokic,41.5,Pts+Rebs
+137,"Tue, May 16 7:40 PM",Anthony Davis,35.5,Pts+Rebs
+138,"Tue, May 16 7:40 PM",Jamal Murray,29.5,Pts+Rebs
+139,"Tue, May 16 7:40 PM",D'Angelo Russell,17.5,Pts+Rebs
+140,"Tue, May 16 7:40 PM",Michael Porter Jr.,21.5,Pts+Rebs
+141,"Tue, May 16 7:40 PM",Austin Reaves,18.5,Pts+Rebs
+142,"Tue, May 16 7:40 PM",Aaron Gordon,19.5,Pts+Rebs
+143,"Tue, May 16 7:40 PM",Dennis Schroder,11.5,Pts+Rebs
+144,"Tue, May 16 7:40 PM",Kentavious Caldwell-Pope,12.5,Pts+Rebs
+145,"Tue, May 16 7:40 PM",Lonnie Walker IV,10.5,Pts+Rebs
+146,"Tue, May 16 7:40 PM",Bruce Brown,15.5,Pts+Rebs
+147,"Wed, May 17 7:40 PM",Jimmy Butler,34.5,Pts+Rebs
+148,"Wed, May 17 7:40 PM",Jayson Tatum,39.5,Pts+Rebs
+149,"Wed, May 17 7:40 PM",Bam Adebayo,27.5,Pts+Rebs
+150,"Wed, May 17 7:40 PM",Jaylen Brown,30.5,Pts+Rebs
+151,"Wed, May 17 7:40 PM",Gabe Vincent,11.5,Pts+Rebs
+152,"Wed, May 17 7:40 PM",Marcus Smart,17.5,Pts+Rebs
+153,"Wed, May 17 7:40 PM",Max Strus,15.5,Pts+Rebs
+154,"Wed, May 17 7:40 PM",Al Horford,14.5,Pts+Rebs
+155,"Wed, May 17 7:40 PM",Kyle Lowry,14.5,Pts+Rebs
+156,"Wed, May 17 7:40 PM",Malcolm Brogdon,18.5,Pts+Rebs
+157,"Wed, May 17 7:40 PM",Caleb Martin,12.5,Pts+Rebs
+158,"Wed, May 17 7:40 PM",Kevin Love,12.5,Pts+Rebs
+159,"Wed, May 17 7:40 PM",Robert Williams III,14.5,Pts+Rebs
+160,"Tue, May 16 7:40 PM",LeBron James,1.0,Dunks
+161,"Tue, May 16 7:40 PM",Nikola Jokic,0.5,Dunks
+162,"Tue, May 16 7:40 PM",Anthony Davis,2.0,Dunks
+163,"Tue, May 16 7:40 PM",Michael Porter Jr.,0.5,Dunks
+164,"Tue, May 16 7:40 PM",Aaron Gordon,1.5,Dunks
+165,"Tue, May 16 7:40 PM",LeBron James,21.5,FG Attempted
+166,"Tue, May 16 7:40 PM",Nikola Jokic,20.5,FG Attempted
+167,"Tue, May 16 7:40 PM",Anthony Davis,17.5,FG Attempted
+168,"Tue, May 16 7:40 PM",Jamal Murray,21.5,FG Attempted
+169,"Tue, May 16 7:40 PM",D'Angelo Russell,12.5,FG Attempted
+170,"Tue, May 16 7:40 PM",Michael Porter Jr.,12.5,FG Attempted
+171,"Tue, May 16 7:40 PM",Austin Reaves,12.0,FG Attempted
+172,"Tue, May 16 7:40 PM",Aaron Gordon,11.5,FG Attempted
+173,"Tue, May 16 7:40 PM",Jamal Murray,2.0,Personal Fouls
+174,"Tue, May 16 7:40 PM",LeBron James,30.5,Pts+Asts
+175,"Tue, May 16 7:40 PM",Nikola Jokic,37.5,Pts+Asts
+176,"Tue, May 16 7:40 PM",Anthony Davis,25.0,Pts+Asts
+177,"Tue, May 16 7:40 PM",Jamal Murray,30.5,Pts+Asts
+178,"Tue, May 16 7:40 PM",D'Angelo Russell,20.5,Pts+Asts
+179,"Tue, May 16 7:40 PM",Michael Porter Jr.,16.5,Pts+Asts
+180,"Tue, May 16 7:40 PM",Austin Reaves,18.5,Pts+Asts
+181,"Tue, May 16 7:40 PM",Aaron Gordon,15.5,Pts+Asts
+182,"Tue, May 16 7:40 PM",Dennis Schroder,12.0,Pts+Asts
+183,"Tue, May 16 7:40 PM",Kentavious Caldwell-Pope,11.5,Pts+Asts
+184,"Tue, May 16 7:40 PM",Bruce Brown,13.5,Pts+Asts
+185,"Wed, May 17 7:40 PM",Jimmy Butler,33.5,Pts+Asts
+186,"Wed, May 17 7:40 PM",Jayson Tatum,34.5,Pts+Asts
+187,"Wed, May 17 7:40 PM",Bam Adebayo,20.5,Pts+Asts
+188,"Wed, May 17 7:40 PM",Jaylen Brown,28.5,Pts+Asts
+189,"Wed, May 17 7:40 PM",Gabe Vincent,13.5,Pts+Asts
+190,"Wed, May 17 7:40 PM",Marcus Smart,19.5,Pts+Asts
+191,"Wed, May 17 7:40 PM",Max Strus,13.5,Pts+Asts
+192,"Wed, May 17 7:40 PM",Al Horford,10.5,Pts+Asts
+193,"Wed, May 17 7:40 PM",Kyle Lowry,14.5,Pts+Asts
+194,"Wed, May 17 7:40 PM",Malcolm Brogdon,17.5,Pts+Asts
+195,"Tue, May 16 7:40 PM",LeBron James,14.5,Rebs+Asts
+196,"Tue, May 16 7:40 PM",Nikola Jokic,23.5,Rebs+Asts
+197,"Tue, May 16 7:40 PM",Anthony Davis,15.5,Rebs+Asts
+198,"Tue, May 16 7:40 PM",Jamal Murray,11.0,Rebs+Asts
+199,"Tue, May 16 7:40 PM",D'Angelo Russell,8.0,Rebs+Asts
+200,"Tue, May 16 7:40 PM",Michael Porter Jr.,7.0,Rebs+Asts
+201,"Tue, May 16 7:40 PM",Austin Reaves,8.0,Rebs+Asts
+202,"Tue, May 16 7:40 PM",Aaron Gordon,8.5,Rebs+Asts
+203,"Wed, May 17 7:40 PM",Jimmy Butler,12.5,Rebs+Asts
+204,"Wed, May 17 7:40 PM",Jayson Tatum,14.5,Rebs+Asts
+205,"Wed, May 17 7:40 PM",Bam Adebayo,12.0,Rebs+Asts
+206,"Wed, May 17 7:40 PM",Jaylen Brown,9.5,Rebs+Asts
+207,"Wed, May 17 7:40 PM",Marcus Smart,9.0,Rebs+Asts
+208,"Wed, May 17 7:40 PM",Al Horford,9.5,Rebs+Asts
+209,"Wed, May 17 7:40 PM",Kyle Lowry,8.0,Rebs+Asts
+210,"Wed, May 17 7:40 PM",Malcolm Brogdon,7.0,Rebs+Asts
+211,"Wed, May 17 7:40 PM",Robert Williams III,9.0,Rebs+Asts
+212,"Tue, May 16 7:40 PM",LeBron James,5.0,Free Throws Made
+213,"Tue, May 16 7:40 PM",Nikola Jokic,5.5,Free Throws Made
+214,"Tue, May 16 7:40 PM",Anthony Davis,5.5,Free Throws Made
+215,"Tue, May 16 7:40 PM",Jamal Murray,3.0,Free Throws Made
+216,"Tue, May 16 7:40 PM",Austin Reaves,3.5,Free Throws Made
+217,"Tue, May 16 7:40 PM",Aaron Gordon,2.5,Free Throws Made
+218,"Tue, May 16 7:40 PM",D'Angelo Russell,1.5,Free Throws Made
+219,"Tue, May 16 7:40 PM",Bruce Brown,1.5,Free Throws Made
+220,"Tue, May 16 7:40 PM",Kentavious Caldwell-Pope,1.0,Free Throws Made
+221,"Tue, May 16 7:40 PM",Jeff Green,0.5,Free Throws Made
+222,"Wed, May 17 7:30 PM",Jayson Tatum,6.5,Free Throws Made
+223,"Wed, May 17 7:30 PM",Jimmy Butler,8.5,Free Throws Made
+224,"Wed, May 17 7:30 PM",Jaylen Brown,3.5,Free Throws Made
+225,"Wed, May 17 7:30 PM",Bam Adebayo,3.5,Free Throws Made
+226,"Wed, May 17 7:30 PM",Marcus Smart,2.0,Free Throws Made
+227,"Wed, May 17 7:30 PM",Max Strus,0.5,Free Throws Made
+228,"Wed, May 17 7:30 PM",Malcolm Brogdon,1.5,Free Throws Made
+229,"Wed, May 17 7:30 PM",Kyle Lowry,2.0,Free Throws Made
+230,"Wed, May 17 7:30 PM",Robert Williams III,0.5,Free Throws Made
+231,"Wed, May 17 7:30 PM",Gabe Vincent,0.5,Free Throws Made
+232,"Wed, May 17 7:30 PM",Caleb Martin,1.5,Free Throws Made
+233,"Wed, May 17 7:30 PM",Kevin Love,0.5,Free Throws Made
+234,"Tue, May 16 7:40 PM",Anthony Davis,3.5,Blks+Stls
+235,"Wed, May 17 7:40 PM",Bam Adebayo,1.5,Blks+Stls
+236,"Wed, May 17 7:40 PM",Marcus Smart,1.5,Blks+Stls
+237,"Wed, May 17 7:40 PM",Kevin Love,0.5,Blks+Stls
+238,"Tue, May 16 7:40 PM",Aaron Gordon,0.5,Blocked Shots
+239,"Tue, May 16 7:40 PM",Michael Porter Jr.,0.5,Steals
+240,"Tue, May 16 7:40 PM",Austin Reaves,0.5,Steals
+241,"Wed, May 17 7:40 PM",Jimmy Butler,1.5,Steals
+242,"Wed, May 17 7:40 PM",Caleb Martin,0.5,Steals
+243,"Wed, May 17 7:40 PM",Robert Williams III,0.5,Steals
+244,"Tue, May 16 7:40 PM",Michael Porter Jr.,0.5,Turnovers
+245,"Tue, May 16 7:40 PM",Lonnie Walker IV,0.5,Turnovers
+246,"Wed, May 17 7:40 PM",Max Strus,0.5,Turnovers
+247,"Wed, May 17 7:40 PM",Al Horford,0.5,Turnovers
+248,"Wed, May 17 7:40 PM",Kyle Lowry,1.5,Turnovers
